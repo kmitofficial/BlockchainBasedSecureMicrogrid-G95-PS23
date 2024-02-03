@@ -1,0 +1,84 @@
+.bg-light {
+    background-color: #427D9D  !important;
+}
+
+
+.removeDash{
+    text-decoration: none;
+    color:black;
+}
+
+
+#uniqueID::placeholder {
+    color: #e6f7ff; 
+    /* opacity: 1; */
+}
+  
+#minCapacity::placeholder {
+    color: #e6f7ff; 
+    /* opacity: 1; */
+}
+
+#maxCapacity::placeholder {
+    color: #e6f7ff; 
+    /* opacity: 1; */
+}
+
+#charge::placeholder {
+    color: #e6f7ff; 
+    /* opacity: 1; */
+}
+
+#maxEfficiency::placeholder {
+    color: #e6f7ff; 
+    /* opacity: 1; */
+}
+
+#initSoc::placeholder {
+    color: #e6f7ff; 
+    /* opacity: 1; */
+}
+#producer-name::placeholder {
+    color: #e6f7ff; 
+    /* opacity: 1; */
+}
+
+#producer-password::placeholder {
+    color: #e6f7ff; 
+    /* opacity: 1; */
+}
+
+#energyProduction::placeholder {
+    color: #e6f7ff; 
+    /* opacity: 1; */
+}
+#maxImport::placeholder {
+    color:#e6f7ff; 
+    /* opacity: 1; */
+}
+
+#maxExport::placeholder {
+    color: #e6f7ff; 
+    /* opacity: 1; */
+}
+
+#microGridName::placeholder {
+    color: #e6f7ff; 
+    /* opacity: 1; */
+}
+
+
+#name::placeholder {
+    color: #e6f7ff; 
+    /* opacity: 1; */
+}
+
+#userAddress::placeholder {
+    color: #e6f7ff; 
+    /* opacity: 1; */
+}
+
+#energyRequired::placeholder {
+    color: #e6f7ff; 
+    /* opacity: 1; */
+}
